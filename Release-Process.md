@@ -7,8 +7,7 @@ as npm packages hosted on https://npmjs.com/package/express.
 
 ## Who can make releases?
 
-Release authorization is given by the Express TC. Once authorized, an individual
-must have the following access permissions:
+
 
 ### 1. Github release access
 
